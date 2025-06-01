@@ -2,7 +2,7 @@
 Este é um projeto desenvolvido em Java com o objetivo de calcular a área de figuras planas e o volume de sólidos geométricos. O código foi estruturado utilizando princípios da Programação Orientada a Objetos (POO) como abstração, encapsulamento e herança.
 
 
-##figurasGeometricas – Abstração em Java
+## figurasGeometricas – Abstração em Java
 Este projeto demonstra o conceito de abstração na Programação Orientada a Objetos (POO), aplicando-o no contexto de figuras geométricas. Ele oculta os detalhes internos da implementação e fornece ao usuário apenas o necessário para uso das formas.
 
 ### 🧩 Organização dos Pacotes
