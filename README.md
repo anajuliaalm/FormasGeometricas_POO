@@ -41,7 +41,7 @@ As propriedades das figuras (como base, altura, raio, etc.) são mantidas privad
 ![Image](https://github.com/user-attachments/assets/67e8093d-4134-48cb-acac-96ee56244a8c)
 
 
-## 🧬 figurasGeometricas – Herança 
+# 🧬 figurasGeometricas – Herança 
 Este projeto demonstra o uso do princípio de herança, um dos pilares da Programação Orientada a Objetos (POO). Por meio da herança, classes específicas de figuras reutilizam atributos e métodos de uma estrutura base, promovendo reaproveitamento de código e organização hierárquica.
 
 ### 🧩 Organização dos Pacotes
